@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,AAAC,CACJ,cAAc,CAAA,QAAC,CACf,aAAa,CAAA,QAAC,CACd,aAAa,CAAA,QAAC,CACd,YAAY,CAAA,QAAC,CACb,WAAW,CAAA,QAAC,CACZ,WAAW,CAAA,QAAC,CACZ,YAAY,CAAA,QAAC,CACb,YAAY,CAAA,QAAC,CACb,mBAAmB,CAAA,QAAC,CACpB,WAAW,CAAA,qBAAC,CACZ,WAAW,CAAA,sBAAC,CACb,ACZD,AAAA,gBAAgB,AAAC,CACf,QAAQ,CAAE,QAAQ,CAClB,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,GAAG,CACX,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,CAAC,CACV,QAAQ,CAAE,MAAM,CAChB,MAAM,CAAE,CAAC,CACT,IAAI,CAAE,aAAa,CACpB,ACTD,AAAA,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX,AAED,AAAA,CAAC,AAAC,CACA,eAAe,CAAE,IAAI,CACrB,KAAK,CAAE,OAAO,CACf,AAED,AAAA,EAAE,AAAC,CACD,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACV,AAED,AAAA,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,AAAC,CACD,MAAM,CAAE,CAAC,CACV,AAED,AAAA,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACV,AAED,AAAA,GAAG,AAAC,CACF,OAAO,CAAE,KAAK,CACd,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACb,AC/BD,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,gBAAgB,CAC7B,UAAU,CAAE,MAAM,CAClB,KAAK,CAAE,iBAAiB,CACxB,WAAW,CAAE,MAAM,CACnB,SAAS,CAAE,IAAI,CACf,cAAc,CAAE,MAAM,CACtB,WAAW,CAAE,IAAI,CACjB,YAAY,CAAE,IAAI,CACnB,ACTD,AAAA,QAAQ,AAAC,CACP,OAAO,CAAE,MAAM,CAChB,ACFD,AAAA,UAAU,AAAC,CACT,MAAM,CAAE,MAAM,CACd,KAAK,CAAE,MAAM,CACb,YAAY,CAAE,IAAI,CAClB,aAAa,CAAE,IAAI,CACpB,ACLD,AAAA,IAAI,AAAC,CACH,QAAQ,CAAE,QAAQ,CAClB,QAAQ,CAAE,MAAM,CACjB,ACHD,AAAA,KAAK,AAAC,CACJ,IAAI,CAAE,YAAY,CAClB,YAAY,CAAE,IAAI,CACnB,ACHD,AAAA,KAAK,AAAC,CACJ,WAAW,CAAE,OAAO,CACpB,WAAW,CAAE,IAAI,CACjB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,KAAK,CAClB,KAAK,CAAE,mBAAmB,CAC1B,eAAe,CAAE,IAAI,CACrB,WAAW,CAAE,IAAI,CACjB,cAAc,CAAE,IAAI,CACrB,AAED,AAAA,UAAU,AAAC,CACT,OAAO,CAAE,KAAK,CACd,YAAY,CAAE,IAAI,CAKnB,AAHE,AAAD,uBAAc,AAAC,CACb,KAAK,CAAE,iBAAiB,CACzB,AAGH,AAAA,aAAa,AAAC,CACZ,OAAO,CAAE,KAAK,CACd,WAAW,CAAE,OAAO,CACpB,WAAW,CAAE,IAAI,CACjB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,KAAK,CAAE,mBAAmB,CAC1B,eAAe,CAAE,IAAI,CACrB,aAAa,CAAE,IAAI,CAKpB,AAHE,AAAD,0BAAc,AAAC,CACb,KAAK,CAAE,kBAAkB,CAC1B",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/base/_reset.scss",
+        "../sass/base/_body.scss",
+        "../sass/base/_section.scss",
+        "../sass/base/_container.scss",
+        "../sass/base/_thumb.scss",
+        "../sass/base/_icon.scss",
+        "../sass/components/_logo.scss",
+        "../sass/components/_button.scss",
+        "../sass/components/_section-title.scss",
+        "../sass/components/_social-list.scss",
+        "../sass/components/_modal-window.scss",
+        "../sass/layout/_header.scss",
+        "../sass/layout/_hero-section.scss",
+        "../sass/layout/_advantages-section.scss",
+        "../sass/layout/_our-works-section.scss",
+        "../sass/layout/_our-team-section.scss",
+        "../sass/layout/_our-cliens-section.scss",
+        "../sass/layout/_footer.scss",
+        "../sass/layout/_portfolio-page.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

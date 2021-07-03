@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,CAAC;EACJ,cAAc,CAAA,QAAC;EACf,aAAa,CAAA,QAAC;EACd,aAAa,CAAA,QAAC;EACd,YAAY,CAAA,QAAC;EACb,WAAW,CAAA,QAAC;EACZ,WAAW,CAAA,QAAC;EACZ,YAAY,CAAA,QAAC;EACb,YAAY,CAAA,QAAC;EACb,mBAAmB,CAAA,QAAC;EACpB,WAAW,CAAA,qBAAC;EACZ,WAAW,CAAA,sBAAC;CACb;;ACZD,AAAA,gBAAgB,CAAC;EACf,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,MAAM;EAChB,MAAM,EAAE,CAAC;EACT,IAAI,EAAE,aAAa;CACpB;;ACTD,AAAA,CAAC,CAAC;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;AAED,AAAA,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,OAAO;CACf;;AAED,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;CACV;;AAED,AAAA,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE,CAAC;EACD,MAAM,EAAE,CAAC;CACV;;AAED,AAAA,CAAC,CAAC;EACA,MAAM,EAAE,CAAC;CACV;;AAED,AAAA,GAAG,CAAC;EACF,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb;;AC/BD,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,gBAAgB;EAC7B,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,iBAAiB;EACxB,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB;;ACTD,AAAA,QAAQ,CAAC;EACP,OAAO,EAAE,MAAM;CAChB;;ACFD,AAAA,UAAU,CAAC;EACT,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,MAAM;EACb,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACpB;;ACLD,AAAA,IAAI,CAAC;EACH,QAAQ,EAAE,QAAQ;EAClB,QAAQ,EAAE,MAAM;CACjB;;ACHD,AAAA,KAAK,CAAC;EACJ,IAAI,EAAE,YAAY;EAClB,YAAY,EAAE,IAAI;CACnB;;ACHD,AAAA,KAAK,CAAC;EACJ,WAAW,EAAE,OAAO;EACpB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,KAAK;EAClB,KAAK,EAAE,mBAAmB;EAC1B,eAAe,EAAE,IAAI;EACrB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CACrB;;AAED,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,KAAK;EACd,YAAY,EAAE,IAAI;CAKnB;;AAHE,AAAD,uBAAc,CAAC;EACb,KAAK,EAAE,iBAAiB;CACzB;;AAGH,AAAA,aAAa,CAAC;EACZ,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,OAAO;EACpB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,mBAAmB;EAC1B,eAAe,EAAE,IAAI;EACrB,aAAa,EAAE,IAAI;CAKpB;;AAHE,AAAD,0BAAc,CAAC;EACb,KAAK,EAAE,kBAAkB;CAC1B",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/base/_reset.scss",
+        "../sass/base/_body.scss",
+        "../sass/base/_section.scss",
+        "../sass/base/_container.scss",
+        "../sass/base/_thumb.scss",
+        "../sass/base/_icon.scss",
+        "../sass/components/_logo.scss",
+        "../sass/components/_button.scss",
+        "../sass/components/_section-title.scss",
+        "../sass/components/_social-list.scss",
+        "../sass/components/_modal-window.scss",
+        "../sass/layout/_header.scss",
+        "../sass/layout/_hero-section.scss",
+        "../sass/layout/_advantages-section.scss",
+        "../sass/layout/_our-works-section.scss",
+        "../sass/layout/_our-team-section.scss",
+        "../sass/layout/_our-cliens-section.scss",
+        "../sass/layout/_footer.scss",
+        "../sass/layout/_portfolio-page.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
