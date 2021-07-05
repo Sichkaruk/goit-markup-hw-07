@@ -85,8 +85,8 @@
   }
 
   &__wrapper {
-    position: relative;
     display: block;
+    position: relative;
     margin-top: 4px;
   }
 
@@ -95,6 +95,7 @@
     width: 100%;
     padding: 0;
     padding-left: 42px;
+
     border: 1px solid rgba(33, 33, 33, 0.2);
     outline: none;
     border-radius: 4px;
@@ -161,6 +162,7 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
+
   cursor: pointer;
 
   &__checkbox {
